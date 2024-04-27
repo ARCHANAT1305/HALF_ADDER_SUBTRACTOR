@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP NO:3 HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -35,6 +35,8 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -50,12 +52,44 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Developed by: ARCHANA.T
 
-Developed by: RegisterNumber:*/
+RegisterNumber:212223240013
+
+### HALF ADDER
+
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/d9433c5a-8668-4c0f-a450-4ca387e42f11)
+
+
+**RTL Schematic**
+![DG halfadder](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/ec4fac1a-3a89-4079-947e-a8b6fa38d175)
+
+
+## Truthtable
+
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/3ab6c0f5-6c39-4be1-9474-6a45e96f431b)
+
+
+**Output/TIMING Waveform**
+![DG halfadder wave form](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/4ed70452-31ee-40a1-8c6e-a587526f7b2e)
+
+
+### HALF SUBRACTOR
+
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/5f91b441-7a61-4799-bd43-cec9fcba439f)
 
 **RTL Schematic**
 
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/da8a754b-0dfb-4e3f-83f4-51f2ce7ac725)
+
+## Truthtable
+
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/252d1053-0433-495c-a691-0bceaf056f0e)
+
 **Output/TIMING Waveform**
 
+![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/d5cc46dc-0bc0-457f-9fb7-5d2e28d8eda3)
+
+
 **Result:**
+Thus the program executed successfully.
