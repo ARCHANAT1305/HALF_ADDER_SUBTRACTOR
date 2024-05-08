@@ -1,4 +1,4 @@
-# EXP NO:3 HALF_ADDER_SUBTRACTOR
+# EXPERIMENT NO:3 HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -32,8 +32,6 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
-
-**Truthtable**
 
 
 
@@ -91,5 +89,5 @@ RegisterNumber:212223240013
 ![image](https://github.com/ARCHANAT1305/HALF_ADDER_SUBTRACTOR/assets/145975189/d5cc46dc-0bc0-457f-9fb7-5d2e28d8eda3)
 
 
-**Result:**
+**Result:**  
 Thus the program executed successfully.
